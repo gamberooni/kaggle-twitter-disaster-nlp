@@ -1,8 +1,7 @@
-**Introduction**
-
+## Introduction
 This kaggle challenge is perfect for getting started in Natural Language Processing (NLP).  
 
-**Content:**
+## Content
 1. Data exploration
 2. Data cleaning - remove URLs, punctuations, emojis 
 3. Tokenization - count vectorization, TFIDF 
@@ -11,6 +10,6 @@ This kaggle challenge is perfect for getting started in Natural Language Process
 6. Model evaluation
 7. Hyperparameter tuning
 
-**Todo:**
+## Todo
 - Gain deeper understanding in the important features in NLP
 - Experiment using BERT (Bidirectional Encoder Representations from Transformers) model 
